@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jacob Varghese  
+# 👋 Hello, I'm Jacob Varghese  
 
 ### 🚀 Lead Software Engineer | Domain Architect | Security & Cloud Enthusiast  
 
@@ -36,7 +36,7 @@ I’m a seasoned software engineer with over 15 years of experience designing an
 When I’m not debugging production or diagramming systems, you’ll find me:  
 🏍️ Riding motorcycles through Georgia backroads  
 🌲 Tackling **home DIY projects** — from smart lighting setups to backyard builds
-🏓 Playing pickleball with questionable sportsmanship  
+🏓 Playing pickleball with questionable sportsmanship
 🍽️ Exploring **new food and drinks** — always chasing the next great bite or brew
 
 ---
