@@ -48,4 +48,4 @@ When I’m not debugging production or diagramming systems, you’ll find me:
 
 ---
 
-> _“Architecture is not about technology. It’s about intent — and the discipline to follow through.”_
+_“Architecture is not about technology. It’s about intent — and the discipline to follow through.”_
