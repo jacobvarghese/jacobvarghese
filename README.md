@@ -42,7 +42,7 @@ When I’m not debugging production or diagramming systems, you’ll find me:
 ---
 
 ###  Connect
-- **LinkedIn:** [linkedin.com/in/jacob-varghese](https://linkedin.com/in/jacob-varghese)  
+- **LinkedIn:** [linkedin.com/in/jacob-varghese](https://www.linkedin.com/in/varghese-jacob/)  
 - **Portfolio:** [Coming Soon – GitHub Projects](#)  
 - **Email:** jacob.varghese@hotmail.com  
 
