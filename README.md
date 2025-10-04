@@ -16,11 +16,11 @@ I’m a seasoned software engineer with over 15 years of experience designing an
 ---
 
 ###  Tech Stack
-**Languages:** Java, Python, JavaScript/TypeScript 
-**Frameworks:** Spring Boot, Node.js, Angular  
-**Cloud & DevOps:** GCP, Kubernetes, Docker, Jenkins, Anthos, Vault  
-**Security:** Veracode, Prisma, SonarQube, Splunk  
-**Data:** Oracle, PostgreSQL, MongoDB, Elasticsearch  
+- **Languages:** Java, Python, JavaScript/TypeScript
+- **Frameworks:** Spring Boot, Node.js, Angular  
+- **Cloud & DevOps:** GCP, Kubernetes, Docker, Jenkins, Anthos, Vault  
+- **Security:** Veracode, Prisma, SonarQube, Splunk  
+- **Data:** Oracle, PostgreSQL, MongoDB, Elasticsearch  
 
 ---
 
